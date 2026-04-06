@@ -35,18 +35,6 @@ The pipeline:
 
 ---
 
-## 📂 Project Structure
-
-```
-banks_project.py
-exchange_rate.csv
-Largest_banks_data.csv
-Banks.db
-code_log.txt
-```
-
----
-
 ## 🚀 How to Run
 
 ### 1. Install dependencies
